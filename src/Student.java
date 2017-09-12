@@ -11,7 +11,7 @@ import java.util.Date;
 public class Student implements Comparable {
 
 	/**
-	 * student id
+	 * student i
 	 */
 	private int id;
 

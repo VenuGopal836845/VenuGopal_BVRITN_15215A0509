@@ -6,7 +6,7 @@ import java.util.Date;
  * after the element was removed the size of the array should be equal to the number of stored elements
  * after the element was added the size of the array should be equal to the number of stored elements
  * null elements are not allowed to be stored in the array
- * 
+ *
  * You may add new methods, fields to this class, but DO NOT RENAME any given class, interface or method
  * DO NOT PUT any classes into packages
  *

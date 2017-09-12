@@ -8,7 +8,7 @@ public interface StudentArrayOperation {
 
 	/**
 	 * Returns the array of students
-	 * 
+	 *
 	 * @return the array of students
 	 * 
 	 */
